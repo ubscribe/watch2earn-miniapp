@@ -1,3 +1,3 @@
-document.getElementById("start-btn").addEventListener("click", () => {
-  alert("Soon you'll start earning tokens. Stay tuned! 🚀");
+document.addEventListener("DOMContentLoaded", function () {
+  console.log("App loaded. Ready to earn tokens!");
 });
